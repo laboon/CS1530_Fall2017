@@ -20,6 +20,7 @@ _Although the professor will make a best effort to have the class topic on the d
   * Software Engineering vs Programming vs Computer Science
 
 * (30 Aug)  Overview: Designing a Software Product
+
 __Reading: Brooks, "The Tar Pit" and Brooks, "The Mythical Man-Month" (just the titular essay, not the entire book)__
   * Why is this difficult?
   * Overview of the Software Development Life Cycle
@@ -30,6 +31,7 @@ __Reading: Brooks, "The Tar Pit" and Brooks, "The Mythical Man-Month" (just the 
 * (4 Sep) NO CLASS - LABOR DAY
 
 * (6 Sep) Building a Software System
+
 __Reading: Tsui, Chapters 1 and 2__
   * Overview of requirements, design, testing, estimating
   * How is a system built?
@@ -39,6 +41,7 @@ __Reading: Tsui, Chapters 1 and 2__
 ## WEEK 3 (11 and 13 Sep)
 
 * (11 Sep) Principles of Software Engineering
+
 __Reading: Tsui, Chapter 3__
   * Why do software projects fail?
   * Fundamental Concepts
@@ -46,6 +49,7 @@ __Reading: Tsui, Chapter 3__
   * Royce's Principles
 
 * (13 Sep) Overview of Software Process Models
+
 __Reading: Tsui, Chapter 4__
   * Waterfall
   * Incremental and Iterative
@@ -57,6 +61,7 @@ __Reading: Tsui, Chapter 4__
 ## WEEK 4 (18 and 20 Sep)
 
 * (18 Sep) Our Model: Agile/Scrum
+
 __Reading: The Agile Manifesto__
   * Why Agile?
   * Sprints / Sprint Planning / Retrospective
@@ -64,6 +69,7 @@ __Reading: The Agile Manifesto__
   * Benefits and Drawbacks
 
 * (20 Sep) Requirements and User Stories
+
 __Reading: Tsui, Chapter 6__
   * Requirement elicitation
   * Requirement analysis
@@ -73,12 +79,14 @@ __Reading: Tsui, Chapter 6__
 ## WEEK 5 (25 and 27 Sep)
 
 * (25 Sep) Software Design and Architecture
+
 __Reading: Tsui, Chapter 7__
   * Phases of design
   * Architectural vs Detailed design ("strategy" vs "tactics")
   * Architectural styles and patterns
 
 * (27 Sep) Detailed Software Design
+
 __Reading: Tsui, Chapter 8__
   * Design metrics
   * Object-Oriented and Aspect-Oriented Design
@@ -89,6 +97,7 @@ __Reading: Tsui, Chapter 8__
 ## WEEK 6 (2 and 4 Oct)
 
 * (2 Oct) Software Project Management
+
 __Reading: Tsui, Chapter 13__
   * POMA - Planning, Organizing, Monitoring, Adjusting
   * Project effort estimation
@@ -96,6 +105,7 @@ __Reading: Tsui, Chapter 13__
   * Comparing EV vs story points
 
 * (4 Oct) Software Implementation
+
 __Reading: Tsui, Chapter 9__
   * Software development guidelines
   * Implementation practices
@@ -113,8 +123,8 @@ _Note: Classes that are normally held on Monday are shifted to Tuesday on this w
 ## WEEK 8 (16 and 18 Oct)
 
 * (16 Oct) EXERCISE 2: Git 911
+
 __Reading: A Friendly Introduction to Git by Bill Laboon__
-  
 
 * (18 Oct) Gradle and Build Systems
   * Why a build system?
@@ -126,6 +136,7 @@ __Reading: A Friendly Introduction to Git by Bill Laboon__
 * (23 Oct) EXERCISE 3: Pair Programming a Gradle App
 
 * (25 Oct) Quality Assurance and Quality Software
+
 __READING: McConnell, Chapters 20-23__
   * Sprint 1 ends; Sprint 2 begins
 
@@ -136,6 +147,7 @@ __READING: McConnell, Chapters 20-23__
   * Continuous Integration
 
 * (1 Nov) Defensive Programming
+
 __READING: McConnell, Chapter 8__
   * Protecting programs from invalid input
   * Postel's Principle
@@ -144,6 +156,7 @@ __READING: McConnell, Chapter 8__
 ## WEEK 11 (6 and 8 Nov)
 
 * (6 Nov) Function/Method-Level Software Development
+
 __McConnell, Chapters 5 and 10 - 12__
   * Accidental vs Essential Complexities
   * Information Hiding and Encapsulation
@@ -167,8 +180,11 @@ __McConnell, Chapters 5 and 10 - 12__
 
 ## WEEK 13 (20 and 22 Nov)
 
-* (20 Nov) EXERCISE 5: Command Line
-__Reading: Fiat Voluntas Tua - The Philosophy of the Unix Shell__
+* (20 Nov) EXERCISE 5: GUEST LECTURE - Jenny Liu, Product Manager at TurnItIn, on Product Ownership.
+  * How does Product Management compare to Program or Project Management?
+  * Understanding customer needs
+  * Balancing technical requirements with customer requirements
+  * Product roadmaps
   * Sprint 3 ends; Sprint 4 begins
 
 * (22 Nov) NO CLASS
@@ -187,12 +203,13 @@ __Reading: Fiat Voluntas Tua - The Philosophy of the Unix Shell__
   * Making decisions based on the Iron Triangle
   * Examples - Apollo Guidance Computer, Adding Metrics to Web Application
 
-
 ## WEEK 15 (6 and 8 Dec)
 
 * (6 Dec) Software Craftmanship
+
  __READING: McConnell, Chapters 33 - 34__
-   * Writing good code - maintainable, testable, etc.
+
+  * Writing good code - maintainable, testable, etc.
   * Intellectual humility and avoiding complexity
   * Conventions and Abstractions
   * Continuous Improvement
