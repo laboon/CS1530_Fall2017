@@ -57,7 +57,7 @@ _Although the professor will make a best effort to have the class topic on the d
 ## WEEK 4 (18 and 20 Sep)
 
 * (18 Sep) Our Model: Agile/Scrum
-  * __Reading: The Agile Manifesto__
+  * __Reading: The Agile Manifesto__ - http://agilemanifesto.org/
   * Why Agile?
   * Sprints / Sprint Planning / Retrospective
   * Scrum teams
