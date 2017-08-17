@@ -30,17 +30,16 @@ This course provides students with a broad understanding of modern software engi
 ## Grading
 
   * Group Project - 50%
-    * Sprint 1 Deliverable - 5%
+    * Sprint 1 Deliverable - 10%
     * Sprint 2 Deliverable - 10% 
-    * Sprint 3 Deliverable - 10%
-    * Sprint 4 Deliverable - 10%
-    * Final Deliverable - 15%
+    * Sprint 3 Deliverable - 15%
+    * Sprint 4 Deliverable - 15%
   * Midterms - 30%
     * Midterm 1 - 15%
     * Midterm 2 - 15%
   * Reading Quizzes and Exercises - 20%
-    * Quizzes - 10%
-    * Exercises - 10%
+    * Reading Quizzes (5) - 10%
+    * Exercises (5) - 10%
     
 It is strongly recommended that you come to class each for each lecture.  Material may be presented or covered in class that is not in the reading.  
 
@@ -65,8 +64,6 @@ Score  | Grade
 
 All groups are expected to do their own work on the group project, but are more than welcome to collaborate and ask questions with other groups, the Internet, or other colleagues.  Projects may be analyzed with the Stanford _moss_ system to detect unauthorized collaboration between groups.
 
-Note that there are no exams or midterms during the summer version of this course.
-
 It is recommended you keep all of your graded assignments until final grades are posted and accepted, in order to resolve any discrepancies in grading.
 
 ## Readings
@@ -79,7 +76,7 @@ Presence for the class exercises are REQUIRED.  They will be individually re-sch
 
 ## Group Project Details
 
-Students will be grouped into teams of approximately 4, and will work on a project for the duration of the course.  There will be several sprints, at the end of each of which the students will have a working version of their software available on GitHub, as well as documentation and other information (specified for each particular sprint).
+Students will be grouped into teams of approximately 4, and will work on a specified project for much of the course.  There will be several sprints, at the end of each of which the students will have a working version of their software available on GitHub, as well as documentation and other information (specified for each particular sprint).
 
 Deliverables must be committed to GitHub by the beginning of class on the day that it is due.  Late deliverables will NOT be accepted unless authorized __at least 24 hours before the due date__.
 
