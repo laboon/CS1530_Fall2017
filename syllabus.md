@@ -57,7 +57,7 @@ _Although the instructor will make a best effort to have the class topic on the 
 ## WEEK 4 (18 and 20 Sep)
 
 * (18 Sep) Our Model: Agile/Scrum
-  * __Reading: The Agile Manifesto__ - http://agilemanifesto.org/
+  * __Reading: Tsui, Chapter 5 *and* The Agile Manifesto__ - http://agilemanifesto.org/
   * Why Agile?
   * Sprints / Sprint Planning / Retrospective
   * Scrum teams
@@ -131,6 +131,7 @@ _Note: Classes that are normally held on Monday are shifted to Tuesday on this w
 ## WEEK 10 (30 Oct and 1 Nov)
 
 * (30 Oct) Integration and the Software Pipeline
+  * __READING: Tsui, Chapter 11__
   * Classical models of integration
   * Continuous Integration
 
@@ -143,7 +144,7 @@ _Note: Classes that are normally held on Monday are shifted to Tuesday on this w
 ## WEEK 11 (6 and 8 Nov)
 
 * (6 Nov) Function/Method-Level Software Development
-  * __McConnell, Chapters 5 and 10 - 12__
+  * __READING: McConnell, Chapters 5 and 10 - 12__
   * Accidental vs Essential Complexities
   * Information Hiding and Encapsulation
   * Managing complexity
