@@ -130,10 +130,11 @@ _Note: Classes that are normally held on Monday are shifted to Tuesday on this w
 
 ## WEEK 10 (30 Oct and 1 Nov)
 
-* (30 Oct) Integration and the Software Pipeline
-  * __READING: Tsui, Chapter 11__
-  * Classical models of integration
-  * Continuous Integration
+* (30 Oct) EXERCISE 4: GUEST LECTURE - Jenny Liu, Product Manager at TurnItIn, on Product Ownership.
+  * How does Product Management compare to Program or Project Management?
+  * Understanding customer needs
+  * Balancing technical requirements with customer requirements
+  * Product roadmaps
 
 * (1 Nov) Defensive Programming
   * __READING: McConnell, Chapter 8__
@@ -163,15 +164,14 @@ _Note: Classes that are normally held on Monday are shifted to Tuesday on this w
   * Thread-safe programming in Java
   * Common patterns and anti-patterns
 
-* (15 Nov) EXERCISE 4: Finding Pi Using Concurrency
+* (15 Nov) EXERCISE 5: Finding Pi Using Concurrency
 
 ## WEEK 13 (20 and 22 Nov)
 
-* (20 Nov) EXERCISE 5: GUEST LECTURE - Jenny Liu, Product Manager at TurnItIn, on Product Ownership.
-  * How does Product Management compare to Program or Project Management?
-  * Understanding customer needs
-  * Balancing technical requirements with customer requirements
-  * Product roadmaps
+* (20 Nov) Integration and the Software Pipeline
+  * __READING: Tsui, Chapter 11__
+  * Classical models of integration
+  * Continuous Integration
   * Sprint 3 ends; Sprint 4 begins
 
 * (22 Nov) NO CLASS
@@ -192,7 +192,9 @@ _Note: Classes that are normally held on Monday are shifted to Tuesday on this w
 
 ## WEEK 15 (6 and 8 Dec)
 
-* (6 Dec) Software Craftmanship
+* (6 Dec) MIDTERM 2
+
+* (8 Dec) Software Craftmanship
   *  __READING: McConnell, Chapters 33 - 34__
   * Writing good code - maintainable, testable, etc.
   * Intellectual humility and avoiding complexity
@@ -200,7 +202,6 @@ _Note: Classes that are normally held on Monday are shifted to Tuesday on this w
   * Continuous Improvement
   * Sprint 4 ends
 
-* (8 Dec) MIDTERM 2
 
 
 
