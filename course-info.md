@@ -98,8 +98,6 @@ The Office of Disability Resources and Services (DRS) provides a broad range of 
 
 ## Academic Integrity Statement
 
-## Academic Integrity Statement
-
 The integrity of the academic process requires fair and impartial evaluation on the part of faculty and honest academic conduct on the part of students. To this end, students are expected to conduct themselves at a high level of responsibility in the fulfillment of the course of their study. It is the corresponding responsibility of faculty to make clear to students those standards by which students will be evaluated and the resources permissible for use by students during the course of their study and evaluation. The educational process is perceived as a joint faculty-student enterprise which will perforce involve professional judgment by faculty and may involve—without penalty—reasoned exception by students to the data or views offered by faculty.
 
 Cheating/plagiarism will not be tolerated. Students suspected of violating the University of Pittsburgh Policy on Academic Integrity, from the February 1974 Senate Committee on Tenure and Academic Freedom reported to the Senate Council, will be required to participate in the outlined procedural process as initiated by the instructor. A minimum sanction of a zero score for the quiz or exam will be imposed.
