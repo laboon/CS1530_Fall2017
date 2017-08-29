@@ -178,23 +178,23 @@ _Note: Classes that are normally held on Monday are shifted to Tuesday on this w
 
 ## WEEK 14 (30 Nov and 1 Dec)
 
-* (30 Nov) Legacy Code
+* (27 Nov) Legacy Code
   * Refactoring
   * Sprout and Wrapper methods/classes
   * Pinning tests
   * Finding/modifying seams
   * Finding/modifying inflection points
 
-* (1 Dec) Trade-offs In Software Engineering
+* (29 Nov) Trade-offs In Software Engineering
   * Cost / Benefit analysis
   * Making decisions based on the Iron Triangle
   * Examples - Apollo Guidance Computer, Adding Metrics to Web Application
 
 ## WEEK 15 (6 and 8 Dec)
 
-* (6 Dec) MIDTERM 2
+* (4 Dec) MIDTERM 2
 
-* (8 Dec) Software Craftmanship
+* (6 Dec) Software Craftmanship
   *  __READING: McConnell, Chapters 33 - 34__
   * Writing good code - maintainable, testable, etc.
   * Intellectual humility and avoiding complexity
