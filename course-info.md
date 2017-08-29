@@ -29,10 +29,10 @@ This course provides students with a broad understanding of modern software engi
 
 ## Grading
 
-  * Group Project - 45%
+  * Group Project - 50%
     * Sprint 1 Deliverable - 10%
-    * Sprint 2 Deliverable - 10% 
-    * Sprint 3 Deliverable - 10%
+    * Sprint 2 Deliverable - 12% 
+    * Sprint 3 Deliverable - 13%
     * Sprint 4 Deliverable - 15%
   * Midterms - 30%
     * Midterm 1 - 15%
