@@ -13,11 +13,11 @@
 
 **Room:** 5129 Sennott Square
 
-**TA:**
+**TAs:**
+
+Hardik Chinoy - (GitHub username: hardikchinoy25) hac118 at pitt dot edu (1:00 - 2:15) 
 
 Krithika Ganesh - krg63 at pitt dot edu (3:00 - 4:30)
-
-Hardik Chinoy (1:00 - 2:15)
 
 **Class GitHub repo:** [https://www.github.com/laboon/CS1530_Fall2017](https://www.github.com/laboon/CS1530_Fall2017)  
 
