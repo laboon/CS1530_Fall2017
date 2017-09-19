@@ -29,7 +29,7 @@ ________________________________________________________________________
 ________________________________________________________________________
 ```
 
-3. In your code, you have a very long method, `extrapolateDucksAndFish()`.  Reviewing the code, you are able to deconstruct it so that the method calls three new, shorter  methods, `initializeAnimals()`, `extrapolateDucks()`, and `extrapolateFish()`.  In the process, you are also able to remove some duplicate code, leading to an overall reduction of 35% in terms of lines of code.
+3. In your code, you have a very long method, `extrapolateDucksAndFish()`.  Reviewing the code, you are able to deconstruct it so that the method calls three new, shorter  methods, `initializeAnimals()`, `extrapolateDucks()`, and `extrapolateFish()`.  In the process, you are also able to remove some duplicate code, leading to an overall reduction of 35% in terms of lines of code, without changing any of the functionality.
 
 What is the name of the process that you just did?
 
