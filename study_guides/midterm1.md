@@ -125,7 +125,7 @@ This covers all the material from the beginning of the class to the last lecture
   3. Henry-Kafura information flow
   4. Card-Glass system complexity
 1. Fan-in vs fan-out
-1. Cohesion and cohesion measures
+1. Cohesion 
   1. Coincidental
   1. Logical
   1. Temporal
