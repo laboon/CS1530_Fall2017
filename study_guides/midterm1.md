@@ -119,7 +119,7 @@ This covers all the material from the beginning of the class to the last lecture
 1. Reference architecture - what is it?
   1. You should know what REST is but you do NOT need to know it in detail
 1. Functional decomposition - what is it?
-1. Complexity metrics - know what they are, benefits/drawbacks, but you do not need to memorize calculations
+1. Complexity metrics - know what they are, general ideas, benefits/drawbacks, but you do not need to memorize calculations
   1. Halstead complexity metric
   2. McCabe's cyclomatic complexity
   3. Henry-Kafura information flow

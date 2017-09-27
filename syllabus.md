@@ -83,7 +83,6 @@ _Although the instructor will make a best effort to have the class topic on the 
   * Design metrics
   * Object-Oriented and Aspect-Oriented Design
   * Coupling and cohesion
-  * Basic UI Design Principles
   * DUE: READING QUIZ 4
 
 ## WEEK 6 (2 and 4 Oct)
@@ -97,6 +96,7 @@ _Although the instructor will make a best effort to have the class topic on the 
 
 * (4 Oct) Software Implementation
   * __Reading: Tsui, Chapter 9__
+  * Basic UI Design Principles
   * Software development guidelines
   * Implementation practices
   * DUE: READING QUIZ 5
