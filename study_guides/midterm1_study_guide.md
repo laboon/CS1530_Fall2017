@@ -14,12 +14,6 @@ This covers all the material from the beginning of the class to the last lecture
 1. Understand requirements vs design constraints
 1. Understand functional vs non-functional requirements (quality attributes)
 1. Understand implicit vs explicit requirements
-1. What is the key principle of testing software?  Be able to apply it and explain if it can or cannot be applied.
-1. Techniques for simplifying code/systems
-  1. Decomposition
-  1. Modularization
-  1. Separation
-  1. Incremental iterations
 1. Technical vs non-technical considerations
 1. Why do projects fail?
   1. Lack of user input/involvement
@@ -29,15 +23,6 @@ This covers all the material from the beginning of the class to the last lecture
   1. Most common in coding phase, but book recommends focusing on requirements phase.. why?
 1. Failures by size of software
   1. Larger software -> bigger chance of failure.  Why?
-1. Can anyone call themselves a Software Engineer? Why or why not?
-1. Royce's Principles - focus on the ones in the slides
-  1. Architecture-first approach
-  1. Iterative processes
-  1. Component-based development
-  1. Objective quality control
-  1. Demonstration-based approach
-  1. Incremental releases
-  1. Configurable processes
 1. What is a use case?
 1. What is an actor?
 1. Software methodologies - what are they? which one is "best"?
@@ -78,12 +63,6 @@ This covers all the material from the beginning of the class to the last lecture
   1. Review and validation
   1. Agreement and acceptance
 1. Understand high-level vs low-level (detailed) requirements elicitation
-1. Categorization of requirements
-  1. Clustering by dimension
-  1. Clustering by use case
-1. Prioritization of requirements
-  1. By present or future customer demands / needs
-  1. By technical prioritization (pre- and co-requisites, avoiding technical debt)
 1. Analytical hierarchy process - know what it is, but you do not need to memorize the calculations
   1. Benefits / drawbacks of this approach?
 1. Requirements traceability - what is it and why do we need it?
@@ -115,15 +94,13 @@ This covers all the material from the beginning of the class to the last lecture
   1. MVC
   1. Big ball of mud
 1. Architectural tactics - what are they?
-  1. Be prepared to talk about ping vs heartbeat trade-offs
 1. Reference architecture - what is it?
-  1. You should know what REST is but you do NOT need to know it in detail
 1. Functional decomposition - what is it?
-1. Complexity metrics - know what they are, general ideas, benefits/drawbacks, but you do not need to memorize calculations
-  1. Halstead complexity metric
-  2. McCabe's cyclomatic complexity
-  3. Henry-Kafura information flow
-  4. Card-Glass system complexity
+1. Complexity metrics - know what they are, general ideas, benefits/drawbacks
+  1. Halstead complexity metric - you do not need to know calculations
+  2. McCabe's cyclomatic complexity - be able to calculate using simple if/then conditionals
+  3. Henry-Kafura information flow - calculate fan-in, fan-out, structural complexity, system complexity
+  4. Card-Glass system complexity - you do not need to know calculation
 1. Fan-in vs fan-out
 1. Cohesion 
   1. Coincidental
@@ -139,10 +116,6 @@ This covers all the material from the beginning of the class to the last lecture
   1. Control coupling
   1. Stamp coupling
   1. Data coupling
-1. Object-oriented design metrics
-  1. Weighted methods per class
-  2. Depth of inheritance tree
-  3. Number of children
 1. Basics of UI design - the "Golden Rules"
   1. Place the user in control
   1. Reduce the user's memory load
@@ -153,20 +126,10 @@ This covers all the material from the beginning of the class to the last lecture
   2. Organizing
   3. Monitoring
   4. Adjusting
-1. General formula for estimation: UOE = a + b(size)^c + ACCUM(factors)
-1. Know benefits/drawbacks of COCOMO (you do not need to know how to calculate)
 1. Know how to do Lorenz-Kidd OO Estimation (you WILL need to know the formula for this)
-1. Understand work breakdown structure
+1. Understand work breakdown structure and be able to make one
 1. Understand what earned value is - you do NOT need to calculate yourself
-1. Characteristics of a good implementation
-  1. Readabiity
-  2. Maintainability
-  3. Performance
-  1. Traceability
-  1. Correctness
-  1. Completeness
 1. Programming style and guidelines
-1. Defensive programming - what is it?
 1. Performance optimization
   1. When to do it?
 1. What is refactoring?
