@@ -27,6 +27,7 @@ public class SoUnsafe {
 	// Regular ol' instantiation
 	OrdinaryClass oc = new OrdinaryClass();
 	oc.printA();
+
 	
 	// Unsafe - ignore the constructor
 	OrdinaryClass unsafeOc = null;
