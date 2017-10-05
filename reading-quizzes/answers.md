@@ -27,7 +27,7 @@
 ## RQ4
 
 1. Yes, every system has a software architecture.  If a system exists, it has some architecture, even if it is informal or undocumented.
-2. Event-drive architecture.  Its primary method of operation is responding to events.
+2. Event-driven architecture.  Its primary method of operation is responding to events. (I will accept client-server since the server operates fundamentally differently than the attached clients)
 3. Database-centric, since it is focused on data storage.  (I will also accept client-server since data is stored on a central server and clients access it, or MVC if you assume it is web-based as I mentioned that many web frameworks use MVC)
 4. Content coupling is a very tight coupling.  This can lead to changes in one leaking over to another, hard to localize fixes, hard to re-use the code elsewhere.
 5. Procedural cohesion.  I would also accept communicational, sequential, or functional since they are also "procedural plus".
