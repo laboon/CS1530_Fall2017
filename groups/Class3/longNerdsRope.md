@@ -1,10 +1,9 @@
 # Group Name
-long Nerds Rope
-
-#Slogan
+long nerdsRope
+##Slogan
 Literally Taking Candy From a Baby
 
-#People in group and github accounts 
+##Group Members 
 
 1. Amani Johnson (akj26)
 2. Alex Coroi (coroialexander)
