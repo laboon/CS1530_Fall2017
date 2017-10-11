@@ -1,8 +1,8 @@
-#Team McTeamFace
+# Team McTeamFace
 
-#Agile is da best
+# Agile is da best
 
-Nick Bourdakos
-Malek Ameli-Grillon
-Vivek Sen
-Roger Jordan
+Nick Bourdakos (bourdakos1)
+Malek Ameli-Grillon (malekagr)
+Vivek Sen (vas55)
+Roger Jordan (rdj14)
