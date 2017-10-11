@@ -42,6 +42,10 @@ User stories should flow from the needs of the customer.  Your discussions with 
 
 The number of user stories in the product backlog will vary based on the project, but it should be at least eight at the VERY minimum.  If there are fewer than eight stories, the project may be too small or your user stories too big.
 
+You should set up a GitHub Project which has four columns: product backlog, sprint backlog, in progress, complete.  All user stories should start in the product backlog, and move to sprint backlog when they are scheduled to be done in this sprint.  Stories should generally progress from there to in progress to complete.
+
+User Stories should be entered as "issues" and put in the appropriate place (product backlog, sprint backlog, in progress, complete) in the Project.  Tasks can also be added as issues.
+
 The walking skeleton __must__ compile and show a basic UI for the application.  You can have more functionality if you like, but it is essential that your program compiles, runs and displays a basic UI without error!
 
 This basic UI should display:
