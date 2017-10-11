@@ -1,8 +1,8 @@
-# FileFormatExceptions
+#FileFormatExceptions
 
-# We're never formatted correctly.
+##We're never formatted correctly.
 
-## Group Members:
+##Group Members:
 
 1. Ryan Catalogna (ryan-cat)
 2. Kyle Sucro (ksucro)
