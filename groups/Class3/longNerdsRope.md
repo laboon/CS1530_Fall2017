@@ -1,9 +1,9 @@
 # Group Name
 long nerdsRope
-##Slogan
+## Slogan
 Literally Taking Candy From a Baby
 
-##Group Members 
+## Group Members 
 
 1. Amani Johnson (akj26)
 2. Alex Coroi (coroialexander)
