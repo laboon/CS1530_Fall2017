@@ -18,7 +18,7 @@ The team should determine the Scrum Master for this first sprint.  The Scrum Mas
 For the first sprint, you will turn in:
 
 1. A cover page, in the format described below
-2. A breakdown of the user stories as a task network.  You do NOT need to estimate time, but only indicate which user stories must be completed before others.
+2. A breakdown of the user stories BEING DONE IN THIS SPRINT as a task network.  You do NOT need to estimate time, but only indicate which user stories must be completed before others.
 3. A "walking skeleton" application available on GitHub in a PRIVATE repository (ADD ME AND THE TA AS COLLABORATORS!  Usernames "laboon" and "hardikchinoy25" (1:00 class) or (3:00 class)).  This should include a basic UI of the program - note that only minimal functionality is required here for the first deliverable.
 
 
