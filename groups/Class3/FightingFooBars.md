@@ -2,7 +2,7 @@
 
 ## Do you mind if I keep my trombone here?
 
-Marcus Dubreuil
-Steve Hardy
-Ethan Defrank
-Eric Grasso
+Marcus Dubreuil (marcdubs)
+Steve Hardy (fatcat32594)
+Ethan Defrank (ethandefrank)
+Eric Grasso (erg52)
