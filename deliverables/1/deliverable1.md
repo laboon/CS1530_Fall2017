@@ -85,6 +85,7 @@ Squares alternate between several colors: red, yellow, blue, green, and orange, 
                                                         |
 [START] -> [RED] -> [YELLOW] -> [BLUE] -> [GREEN] -> [ORANGE]
                      
+```
 
 Upon receiving a single card of a specific color, the player moves their token to the NEXT space with the same color as the card.  For example, assume Player 1 is on the zeroth square.  They draw a "single red" card.  They go to the first square, which is red.  Player 2 draws a single yellow and goes to the first yellow square (square 2). Player 1 draws another single red and they go to the *next* red square.  Player 2 is now on the red square and draws another single red.  They go to square 6 (the next red square).  Player 2 draws a single blue and moves one space to the next blue square.
 
