@@ -1,6 +1,6 @@
 ## Git 911 Exercise
 
-You and a partner should create a BasicGit repository (described below) and fork the BadRepo4 repositories under GitHub username laboon.
+You and a partner should create a BasicGit repository (described below) and fork the BadRepo4 repository under GitHub username laboon.
 
 NOTE: There are BadRepos 0, 1, 2, and 3.  It is NOT necessary to work on them for this exercise. 
 
@@ -62,11 +62,11 @@ You're done!
 
 ## Problem Repos
 
-_There is a problem with each of these repositories.  Fix them.  Please search for the answer via your favorite search engine before asking me.  However, if you feel stuck, please ask!  That is why I am here._
+_There is a problem with the following repository.  Fix it.  Please search for the answer via your favorite search engine before asking me.  However, if you feel stuck, please ask!  That is why I am here._
 
 BadRepo4 - Merge the wjl_derp branch into master. Deal with the merge conflicts as best you can to eliminate them.  There should be no merge conflicts for full credit.
 
-Please show or email me the fixed repos by the beginning of the next class.  I will be putting up solutions at that time.
+Please show or email me the fixed repo by the beginning of the next class.  I will be putting up solutions at that time.
 
 ```
 Basic Git:      1 point
