@@ -1,8 +1,8 @@
 ## Git 911 Exercise
 
-You and a partner should fork the BadRepo{1,4} repositories under GitHub username laboon.
+You and a partner should create a BasicGit repository (described below) and fork the BadRepo4 repositories under GitHub username laboon.
 
-NOTE: There are BadRepos 0, 2, and 3.  It is NOT necessary to work on them for this exercise. 
+NOTE: There are BadRepos 0, 1, 2, and 3.  It is NOT necessary to work on them for this exercise. 
 
 ## Basic Git Functionality
 
@@ -60,12 +60,9 @@ Create a new branch changing your program to count from 1 to 10 to count to 1 to
 
 You're done!
 
-
 ## Problem Repos
 
 _There is a problem with each of these repositories.  Fix them.  Please search for the answer via your favorite search engine before asking me.  However, if you feel stuck, please ask!  That is why I am here._
-
-BadRepo1 - Somebody accidentally sent a commit which deleted all of the code.  Fix this so that the master branch has all of the code back.
 
 BadRepo4 - Merge the wjl_derp branch into master. Deal with the merge conflicts as best you can to eliminate them.  There should be no merge conflicts for full credit.
 
@@ -74,7 +71,6 @@ Please show or email me the fixed repos by the beginning of the next class.  I w
 ```
 Basic Git:      1 point
 PR created:     0.5 point
-BadRepo1 fixed: 0.25 point
-BadRepo4 fixed: 0.25 point
+BadRepo4 fixed: 0.5 point
 ```
 
