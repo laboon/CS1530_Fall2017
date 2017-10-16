@@ -8,12 +8,6 @@ NOTE: There are BadRepos 0, 2, and 3.  It is NOT necessary to work on them for t
 
 Create a simple Java program, BasicGit, which prints the integers from 1 to 10 inclusive.  Add it to a git repository, and push it to GitHub.
 
-### In-depth instructions
-
-## Git / GitHub Basics
-
-We will go into further depth on git and GitHub when we have our Git exercise.  These are the "basic steps" necessary to complete the assignment; we will discuss the details of what they mean when we have our git exercise.
-
 ### Creating A Repository
 
 1. Log in to GitHub at https://github.com
