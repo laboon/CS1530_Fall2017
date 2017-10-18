@@ -124,23 +124,20 @@ _Note: Classes that are normally held on Monday are shifted to Tuesday on this w
 
 * (23 Oct) EXERCISE 3: Pair Programming a Gradle App
 
-* (25 Oct) Quality Assurance and Quality Software
-  * __READING: McConnell, Chapters 20-23__
-  * Sprint 1 ends; Sprint 2 begins
+* (25 Oct) (OPTIONAL) Swing exercise OR First Sprint retrospective/ Second Sprint planning
+  * (OPTIONAL) Sprint 1 ends; Sprint 2 begins // can also be on 30 Oct
 
 ## WEEK 10 (30 Oct and 1 Nov)
 
 * (30 Oct) EXERCISE 4: GUEST LECTURE - Jenny Liu, Product Manager at TurnItIn, on Product Ownership.
+  * (OPTIONAL) Sprint 1 ends; Sprint 2 begins // can also be on 25 Oct
   * How does Product Management compare to Program or Project Management?
   * Understanding customer needs
   * Balancing technical requirements with customer requirements
   * Product roadmaps
 
-* (1 Nov) Defensive Programming
-  * __READING: McConnell, Chapter 8__
-  * Protecting programs from invalid input
-  * Postel's Principle
-  * Dealing with errors and exceptions
+* (1 Nov) Quality Assurance and Quality Software
+  * __READING: McConnell, Chapters 20-23__
   
 ## WEEK 11 (6 and 8 Nov)
 
