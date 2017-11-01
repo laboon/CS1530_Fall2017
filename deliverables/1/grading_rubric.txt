@@ -7,11 +7,11 @@ User Stories (in GitHub):                                     _____ / 15
 Task network: 10% of grade                                    _____ / 10
 
 * All tasks done this sprint included (-3 each if missing)
-* Ordering makes sense (-2
 
 Project set up and used correctly on GitHub: 15% of grade     _____ / 15
 
 * GitHub repository link included, TA added as collaborator
+  (-5 points for each problem)
 * D1 tag added (-5 if "git checkout D1" does not work)
 * User stories entered as issues (-3 if missing)
 * User stories/tasks in correct place (completed stories
@@ -22,12 +22,12 @@ Project set up and used correctly on GitHub: 15% of grade     _____ / 15
 Initial GUI                                                   _____ / 60
 
 * Board displays (-20 if nothing displays on screen)
+* Red - Yellow - Blue - Green - Orange path (-4 if other colors or
+  different order)
 * Single and double cards dealt (-5 if only one kind,
   -12 if cards are not dealt/displayed at all)
 * Cards are randomized (diff games = diff patterns)
   (-5 if not randomized)
-* Red - Yellow - Blue - Green - Orange path (-4 if other colors or
-  different order)
 * Visually distinct Grandma's House and Start (-5 each if not)
 * Can't have < 2 or > 4 players (-3 if <2 players can play,
   -3 if >4, -5 if both)
