@@ -15,5 +15,5 @@ _Note: you may need to download or build the file hsdis-amd64.dylib for your Jav
 
 ```
 javac Foo2.java
-java -XX:+UnlockDiagnosticVMOptions -XX:+PrintAssembly Foo2
+java -XX:+UnlockDiagnosticVMOptions -XX:+PrintAssembly Foo2 > Foo2.asm
 ```
