@@ -1,0 +1,38 @@
+Compiled from "Foo2.java"
+public class Foo2 {
+  public Foo2();
+    Code:
+       0: aload_0
+       1: invokespecial #1                  // Method java/lang/Object."<init>":()V
+       4: return
+
+  public static void main(java.lang.String[]);
+    Code:
+       0: iconst_0
+       1: istore_1
+       2: iconst_0
+       3: istore_2
+       4: iload_2
+       5: bipush        10
+       7: if_icmpge     52
+      10: iload_2
+      11: iconst_2
+      12: imul
+      13: istore_1
+      14: getstatic     #2                  // Field java/lang/System.out:Ljava/io/PrintStream;
+      17: new           #3                  // class java/lang/StringBuilder
+      20: dup
+      21: invokespecial #4                  // Method java/lang/StringBuilder."<init>":()V
+      24: iload_2
+      25: invokevirtual #5                  // Method java/lang/StringBuilder.append:(I)Ljava/lang/StringBuilder;
+      28: ldc           #6                  // String  doubled is
+      30: invokevirtual #7                  // Method java/lang/StringBuilder.append:(Ljava/lang/String;)Ljava/lang/StringBuilder;
+      33: invokevirtual #8                  // Method java/lang/StringBuilder.toString:()Ljava/lang/String;
+      36: invokevirtual #9                  // Method java/io/PrintStream.print:(Ljava/lang/String;)V
+      39: getstatic     #2                  // Field java/lang/System.out:Ljava/io/PrintStream;
+      42: iload_1
+      43: invokevirtual #10                 // Method java/io/PrintStream.println:(I)V
+      46: iinc          2, 1
+      49: goto          4
+      52: return
+}
