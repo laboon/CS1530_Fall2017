@@ -11,7 +11,7 @@ public class VarReuse {
 	}
 
 	System.out.println("And count from 1 to 10 again!");
-	for (; j <= 10; j++) {
+	for (j = 1; j <= 10; j++) {
 	    System.out.println("j is " + j);
 	}
 
