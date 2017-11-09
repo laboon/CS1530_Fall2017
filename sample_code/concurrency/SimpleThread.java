@@ -33,24 +33,28 @@ public class SimpleThread {
 	for (int j=0; j < 100; j++) {
 	    System.out.println("MAIN TASK (" + j + ")");
 	    try {
-	    	Thread.sleep(20);
+	    	Thread.sleep(10);
 	    } catch (InterruptedException iex) { }
 	}
+	System.out.println("MAIN IS DONE WOOT");
     }
 
     // Note that there is nothing special about this method!
     
-    private void backgroundTask() {
+    private static void backgroundTask() {
 
 	// In other thread, print out Background Task (j)
 	// with j from 0 to 99
 	
-	for (int j = 0; j < 100; j++) {
+	for (int j = 0; j < 200; j++) {
 	    System.out.println("BACKGROUND TASK(" + j + ")");
 	    try {
-	    	Thread.sleep(20);
+	    	Thread.sleep(10);
 	    } catch (InterruptedException iex) { }
 
 	}
+	System.out.println("BACKGROUND IS DONE WOOT");
+
+	
     }
 }

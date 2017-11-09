@@ -18,13 +18,13 @@ public class JoinDemo {
 		for (int j = 0; j < NUM_TIMES; j++) {
 		    x++;
 		}
-		System.out.println("meow!");
+		System.out.println("END t1!");
 	    });	    
 	Thread t2 = new Thread(() -> {
 		for (int j = 0; j < NUM_TIMES; j++) {
 		    y++;
 		}
-		System.out.println("tweet!");
+		System.out.println("END t2!");
 	    });
 
 	// Start off both threads
@@ -34,10 +34,10 @@ public class JoinDemo {
 	// Wait for both to finish
 	System.out.println("Main thread of execution here...");
 
-	// try {
-	//     t1.join();
-	//     t2.join();
-	// } catch (InterruptedException iex) { }
+	try {
+	    t1.join();
+	    t2.join();
+	} catch (InterruptedException iex) { }
 	
 	System.out.println("x = " + x + " and y = " + y);
 				   

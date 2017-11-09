@@ -1,0 +1,37 @@
+DELIVERABLE 2
+
+User Stories (in GitHub):                                     _____ / 10
+
+* All user stories in Connextra template (-2 each if not)
+
+Task network: 10% of grade                                    _____ / 10
+
+* All tasks done this sprint included (-3 each if missing)
+
+Project set up and used correctly on GitHub: 10% of grade     _____ / 10
+
+* GitHub repository link included, TA added as collaborator
+  (-5 points for each problem)
+* D2 tag added (-5 if "git checkout D2" does not work)
+* User stories entered as issues (-3 if missing)
+* User stories/tasks in correct place (completed stories
+  this sprint should be completed) (-2 each if in wrong place)
+* Product Backlog, Sprint Backlog, In Progress,
+  Completed columns (-2 per missing one - there can be others) 
+
+GUI                                                           _____ / 70
+
+* Players take turns and tokens move (up to -15)
+* Players can win/lose (up to -10)
+* "Skip turn" cards added to deck (up to -10)
+* Three "go to middle" cards added to deck (up to -10)
+* gradle test - shows no failures (-5 if there are failures)
+* General test coverage ( > 8 unit OR manual tests total)
+  (-3 for each test less than 8)
+* General code quality - (up to -10 points)
+  * Code is commented
+  * Good variable names
+  * Strong cohesion, loose coupling
+  * Good OO design
+
+                                                              _____ / 100
