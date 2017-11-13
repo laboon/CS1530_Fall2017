@@ -75,7 +75,7 @@ public class Atomic {
 	} catch (InterruptedException iex) { }
 	
 	System.out.println("Regular long is: " + _l);
-	
+	// System.exit(0);
 	// We CAN use a regular Long, but we will need to make sure
 	// that we synchronize on some shared object
 

@@ -48,8 +48,8 @@ public class MethodLevelConcurrency {
 	    t2.join();
 	} catch (InterruptedException iex) { }
 
-	// Print out final result - we have done x++ 10000 times
-	// and x-- 100 times
+	// Print out final result - we have done x++ 100000 times
+	// and x-- 100000 times
 	
 	System.out.println("x is now " + x);
 				   
