@@ -7,7 +7,7 @@ public class BetterConcurrency {
 
     public static int x = 0;
 
-    public static final int NUM_TIMES = 1000000;
+    public static final int NUM_TIMES = 100000;
     
     public static void main(String[] args) {
 

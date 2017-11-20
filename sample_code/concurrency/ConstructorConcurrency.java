@@ -2,8 +2,12 @@ public class ConstructorConcurrency {
 
     public static int foo = 0;
 
+    public static Object ref = new Object();
+    
     public ConstructorConcurrency() {
-	foo++;
+	// synchronized(ref) {
+	    foo++;
+	// }
     }
 
     public static void main(String[] args) {
@@ -16,10 +20,10 @@ public class ConstructorConcurrency {
 	    Thread t = new Thread( () -> {
 		    for (int k = 0; k < 10; k++) {
 			new ConstructorConcurrency();
-			try {
-			    Thread.sleep(10);
-			} catch (InterruptedException iex) {
-			}
+			// try {
+			//     Thread.sleep(10);
+			// } catch (InterruptedException iex) {
+			// }
 		    }
 		});
 	    ts[j] = t;
@@ -37,7 +41,6 @@ public class ConstructorConcurrency {
 	    }
 	}
 	
-
 	System.out.println("foo is " + foo);
 	
     }
