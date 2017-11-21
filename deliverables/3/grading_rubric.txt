@@ -1,0 +1,44 @@
+DELIVERABLE 3
+
+User Stories (in GitHub):                                     _____ / 5
+
+* All user stories in Connextra template (-2 each if not)
+
+Task network: 10% of grade                                    _____ / 10
+
+* All tasks done this sprint included (-3 each if missing)
+
+Project set up and used correctly on GitHub: 10% of grade     _____ / 5
+
+* D3 tag added (-5 if "git checkout D2" does not work)
+* User stories entered as issues (-3 if missing)
+* User stories/tasks in correct place (completed stories
+  this sprint should be completed) (-2 each if in wrong place)
+
+Game                                                          _____ / 80
+
+* Regression failures (-5 each, -10 for major issues)
+* Timer starts at 0 at each game (-8 if not)
+* Timer counts ~ every one second (-10 if not)
+* Timer is in minutes:seconds format (-8 if not)
+* Can save games (-10 if not)
+* Can save to different files (-4 if  not)
+* Can load games (-15 if functionality entirely missing)
+  * Locations correct (-8 if not)
+  * Names - if used - correct (-5 if not)
+  * Time correct (-5 if not)
+* Five "candy squares" added (-10 if not)
+* Tokens go to correct candy square when they get candy square card (-8 if not)
+* Candy squares are visually distinct (-5 if not)
+* Players cannot otherwise land on candy squares (-5 if not)
+* gradle test - shows no failures (-5 if there are failures)
+* General test coverage ( > 8 unit OR manual tests total)
+  (-3 for each test less than 8)
+* Additional feature added (up to -15 if not)
+* General code quality - (up to -10 points)
+  * Code is commented
+  * Good variable names
+  * Strong cohesion, loose coupling
+  * Good OO design
+
+                                                              _____ / 100
