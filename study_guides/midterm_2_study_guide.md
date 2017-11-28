@@ -33,7 +33,6 @@
 * Understand inflection points
 * Understand and be able to implement sprout methods
 * Understand and be able to implement wrap methods
-* TUFs and TUCs
 
 ### Integration and the Software Pipeline
 * Phased vs incremental vs Continuous integration
