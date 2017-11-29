@@ -9,4 +9,4 @@ Git me five!
 2. Forrest Wang (CanadianPianoMan)
 3. Nick Taglianetti (nick16754)
 4. Brad Dietz (bdietz56)
-5. Jeremy Patterson (patteronj94)
+5. Jeremy Patterson (pattersonj94)
