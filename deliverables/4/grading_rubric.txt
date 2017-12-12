@@ -1,0 +1,40 @@
+DELIVERABLE 4
+
+User Stories (in GitHub):                                     _____ / 5
+
+* All user stories in Connextra template (-2 each if not)
+
+Task network: 10% of grade                                    _____ / 10
+
+* All tasks done this sprint included (-3 each if missing)
+
+Project set up and used correctly on GitHub: 10% of grade     _____ / 5
+
+* D4 tag added (-5 if "git checkout D4" does not work)
+* User stories entered as issues (-3 if missing)
+* User stories/tasks in correct place (completed stories
+  this sprint should be completed) (-2 each if in wrong place)
+
+Game                                                          _____ / 80
+
+* Regression failures (-5 each, -10 for major issues)
+* Ability to switch between "Classic" and "Strategic" mode (-15 if not)
+* In strategic mode, each player has 3 boomerangs (-10 if not)
+* Boomerangs can be selected and work correctly (-10 if not)
+* File is not corruptible - modify data to cheat, see if it works
+  (-15 if not)
+* AI players - each player can be selected to play as computer
+  (-20 if not)
+* AI player works in both classic and strategic mode (-10 if only one)
+* "Dad" cheat works, selects poorest card if "Dad" entered for name
+  (-10 if not)
+* gradle test - shows no failures (-5 if there are failures)
+* General test coverage ( > 8 unit OR manual tests total)
+  (-3 for each test less than 8)
+* General code quality - (up to -10 points)
+  * Code is commented
+  * Good variable names
+  * Strong cohesion, loose coupling
+  * Good OO design
+
+                                                              _____ / 100
